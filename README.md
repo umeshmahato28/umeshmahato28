@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Umesh Mahato!</h2>
+<h2 align="center">Hi 👋 My name is Umesh Mahato!</h2>
 
 ###
 
@@ -74,6 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/umeshmahato28/umeshmahato28/output/snake.svg" alt="Snake animation" />
+### <img src="https://raw.githubusercontent.com/umeshmahato28/umeshmahato28/output/snake.svg" alt="Snake animation" />
 
 ###
