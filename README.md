@@ -50,8 +50,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" height="30" alt="powershell logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
 </div>
 
